@@ -1,0 +1,7 @@
+C:\Users\LENOVO\OneDrive\Documents\C# Project\Teachers_Records\Teachers_Records\bin\Debug\Teachers_Records.exe.config
+C:\Users\LENOVO\OneDrive\Documents\C# Project\Teachers_Records\Teachers_Records\bin\Debug\Teachers_Records.exe
+C:\Users\LENOVO\OneDrive\Documents\C# Project\Teachers_Records\Teachers_Records\bin\Debug\Teachers_Records.pdb
+C:\Users\LENOVO\OneDrive\Documents\C# Project\Teachers_Records\Teachers_Records\obj\Debug\Teachers_Records.csproj.AssemblyReference.cache
+C:\Users\LENOVO\OneDrive\Documents\C# Project\Teachers_Records\Teachers_Records\obj\Debug\Teachers_Records.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\Documents\C# Project\Teachers_Records\Teachers_Records\obj\Debug\Teachers_Records.exe
+C:\Users\LENOVO\OneDrive\Documents\C# Project\Teachers_Records\Teachers_Records\obj\Debug\Teachers_Records.pdb
